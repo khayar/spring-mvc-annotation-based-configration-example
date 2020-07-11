@@ -1,0 +1,4 @@
+com\test\config\SpringConfig.class
+com\test\controller\HelloWorldController.class
+com\test\model\HelloWorldModel.class
+com\test\config\DispatchingServletController.class
